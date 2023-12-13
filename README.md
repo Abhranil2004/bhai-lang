@@ -1,8 +1,6 @@
 <h1 align="center">Bhai Lang</h1>
-  
 </p>
 <p align="center">
-  This is official repository for bhai-lang.<br><br>
   <b>Bhai lang is a toy programming language written in Typescript.</b>
 </p>
 <br>
@@ -144,7 +142,7 @@ bye bhai
 ```
 
 <h2 align="center">Development</h2>
-<p align="center">You can explore abstract syntax tree(AST) of bhailang <a href="https://bhailang-ast.netlify.app/" target="_blank">here</a>.</p>
+
 
 
 
