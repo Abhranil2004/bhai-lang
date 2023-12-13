@@ -141,8 +141,6 @@ hi bhai
 bye bhai
 ```
 
-<h2 align="center">Development</h2>
-
 
 
 
